@@ -1,0 +1,29 @@
+{
+  "1234567890123456789": {
+    "prize": "PlayStation 5",
+    "channel_id": 123456789,
+    "message_id": 1234567890123456789,
+    "end_time": 1743696000,
+    "reaction_emoji": "🎉",
+    "status": "active",
+    "participants": [
+      "123456789",
+      "987654321",
+      "555555555"
+    ]
+  },
+  "9876543210987654321": {
+    "prize": "Cadeau de 50€",
+    "channel_id": 123456789,
+    "message_id": 9876543210987654321,
+    "end_time": 1743610000,
+    "reaction_emoji": "✨",
+    "status": "finished",
+    "participants": [
+      "123456789",
+      "111111111",
+      "222222222",
+      "333333333"
+    ]
+  }
+}

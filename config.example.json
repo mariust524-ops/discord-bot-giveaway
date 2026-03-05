@@ -1,0 +1,14 @@
+{
+  "discord_token":"MTQ3NTQyNTk5MTc0NzY5ODczMQ.G5RcQg.cqHLF0NSKOsUJrcOkwSsmLXUiXMn-YONy6IkLY",
+  "discord_channel_id": "1422249631642947606",
+  "poll_interval": 60,
+  "youtube_channels": [
+    "UC_x5XG1OV2P6uZZ5FSM9Ttw"
+  ],
+  "twitch_users": [
+    "Gergolux"
+
+  ],
+  "twitch_client_id": "YOUR_TWITCH_CLIENT_ID",
+  "twitch_client_secret": "YOUR_TWITCH_CLIENT_SECRET"
+}
